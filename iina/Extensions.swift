@@ -505,3 +505,9 @@ extension NSUserInterfaceItemIdentifier {
   static let value = NSUserInterfaceItemIdentifier("Value")
   static let action = NSUserInterfaceItemIdentifier("Action")
 }
+
+extension XMLElement {
+  func element(forName name: String) -> XMLElement? {
+    return self.elements(forName: name).first
+  }
+}
