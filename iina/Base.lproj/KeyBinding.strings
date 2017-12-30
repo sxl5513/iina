@@ -88,7 +88,7 @@
 "opt.mute" = "Mute";
 "opt.audio-delay" = "Audio delay";
 
-"opt.sub" = "Sub track";
+"opt.sub" = "Subtitle track";
 "opt.sub-delay" = "Sub delay";
 "opt.sub-pos" = "Sub pos";
 "opt.sub-scale" = "Sub scale";
